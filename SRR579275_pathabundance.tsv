@@ -1,0 +1,57 @@
+# Pathway	SRR579275_Abundance
+UNMAPPED	6572.2029728459
+UNINTEGRATED	2569.7699684316
+UNINTEGRATED|g__Faecalibacterium.s__Faecalibacterium_prausnitzii	742.0811514770
+UNINTEGRATED|g__Eubacterium.s__Eubacterium_rectale	246.1279917141
+UNINTEGRATED|g__Blautia.s__Ruminococcus_torques	204.3758329337
+PWY-7219: adenosine ribonucleotides de novo biosynthesis	4.2331979936
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Faecalibacterium.s__Faecalibacterium_prausnitzii	2.0589489573
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Eubacterium.s__Eubacterium_rectale	1.1635487247
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I	2.5682987727
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Faecalibacterium.s__Faecalibacterium_prausnitzii	1.5808823694
+PWY-7208: superpathway of pyrimidine nucleobases salvage	2.4754810391
+PWY-7208: superpathway of pyrimidine nucleobases salvage|g__Blautia.s__Ruminococcus_torques	1.0008154008
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I	2.4663808155
+PWY-6737: starch degradation V	2.4539114234
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II	2.2476146368
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis	2.2476146368
+PWY-7221: guanosine ribonucleotides de novo biosynthesis	2.0973020977
+PWY-2942: L-lysine biosynthesis III	2.0294388360
+GALACTUROCAT-PWY: D-galacturonate degradation I	1.9748488844
+GALACTUROCAT-PWY: D-galacturonate degradation I|g__Faecalibacterium.s__Faecalibacterium_prausnitzii	1.9748488844
+PANTO-PWY: phosphopantothenate biosynthesis I	1.9371461624
+PWY-6507: 4-deoxy-L-threo-hex-4-enopyranuronate degradation	1.8484534669
+PWY-6507: 4-deoxy-L-threo-hex-4-enopyranuronate degradation|g__Faecalibacterium.s__Faecalibacterium_prausnitzii	1.8484534669
+PWY-621: sucrose degradation III (sucrose invertase)	1.8159433177
+PWY-621: sucrose degradation III (sucrose invertase)|g__Blautia.s__Ruminococcus_torques	0.9225092251
+PWY-621: sucrose degradation III (sucrose invertase)|g__Faecalibacterium.s__Faecalibacterium_prausnitzii	0.8924191093
+PWY-1042: glycolysis IV (plant cytosol)	1.7315228698
+PWY-5097: L-lysine biosynthesis VI	1.5983069144
+PWY-3841: folate transformations II	1.5967064811
+PWY-6123: inosine-5'-phosphate biosynthesis I	1.5572767057
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)	1.5556525062
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)	1.5474940733
+VALSYN-PWY: L-valine biosynthesis	1.5474940733
+VALSYN-PWY: L-valine biosynthesis|g__Faecalibacterium.s__Faecalibacterium_prausnitzii	0.9699554593
+GLUTORN-PWY: L-ornithine biosynthesis	1.4656393804
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)	1.4655379878
+PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Faecalibacterium.s__Faecalibacterium_prausnitzii	1.4655379878
+PWY-5667: CDP-diacylglycerol biosynthesis I	1.4632020687
+PWY0-1319: CDP-diacylglycerol biosynthesis II	1.4632020687
+PWY-6124: inosine-5'-phosphate biosynthesis II	1.4543847533
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Faecalibacterium.s__Faecalibacterium_prausnitzii	1.1082468484
+PWY-5686: UMP biosynthesis	1.4410443155
+PWY0-1296: purine ribonucleosides degradation	1.4324671233
+PWY0-1296: purine ribonucleosides degradation|g__Faecalibacterium.s__Faecalibacterium_prausnitzii	1.1185746693
+PWY-7242: D-fructuronate degradation	1.3764761501
+PWY-5659: GDP-mannose biosynthesis	1.3710776053
+PWY-5659: GDP-mannose biosynthesis|g__Faecalibacterium.s__Faecalibacterium_prausnitzii	0.7457645400
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis	1.3575035882
+PWY66-422: D-galactose degradation V (Leloir pathway)	1.2719241167
+GLCMANNANAUT-PWY: superpathway of N-acetylglucosamine, N-acetylmannosamine and N-acetylneuraminate degradation	1.2035700346
+PWY-5154: L-arginine biosynthesis III (via N-acetyl-L-citrulline)	1.0934386938
+PWY-5103: L-isoleucine biosynthesis III	1.0426648313
+PWY-7111: pyruvate fermentation to isobutanol (engineered)	0.9304412670
+CALVIN-PWY: Calvin-Benson-Bassham cycle	0.9079846241
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)	0.7222939936
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)|g__Eubacterium.s__Eubacterium_rectale	0.7002904076
